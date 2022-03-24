@@ -16,3 +16,7 @@ def adriana_says_hello_world():
     print(f"Hello, {user_name}! You're so kind to say hello. Hello!")
 
 adriana_says_hello_world()
+
+def merge_conflict_function():
+    print("Does this cause conflict?")
+    pass
