@@ -17,15 +17,7 @@ def adriana_says_hello_world():
         user_input = input("Say hello to Adriana! (You must only type hello): ")
     print(f"Hello, {user_name}! You're so kind to say hello. Hello!")
 
-<<<<<<< HEAD
-adriana_says_hello_world()
-
-def merge_conflict_function():
-    print("Does this cause conflict?")
-    pass
-=======
 def merge_conflict_function():
     print("hi")
 
 adriana_says_hello_world()
->>>>>>> c302073e126c1b2f7589a9104cdb1924edf44921
